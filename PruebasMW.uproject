@@ -11,7 +11,10 @@
 		}
 	],
 	"TargetPlatforms": [
+<<<<<<< HEAD
 		"Android",
+=======
+>>>>>>> 9ec87662801eb9f30fe3db6f882fa185de03e64d
 		"IOS",
 		"WindowsNoEditor"
 	]
