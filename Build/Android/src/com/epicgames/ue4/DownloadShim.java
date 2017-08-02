@@ -1,7 +1,7 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.PruebasMW.OBBDownloaderService;
-import com.YourCompany.PruebasMW.DownloaderActivity;
+import Blau.Pruebas_Miniwheels.OBBDownloaderService;
+import Blau.Pruebas_Miniwheels.DownloaderActivity;
 
 
 public class DownloadShim
