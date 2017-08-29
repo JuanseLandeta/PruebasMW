@@ -14,3 +14,5 @@ Config/DefaultEngine.ini
 Config/DefaultInput.ini
 Content/Untitled.umap
 PruebasMW.uproject
+*.uasset
+*.uasset
